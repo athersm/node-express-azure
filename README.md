@@ -6,7 +6,6 @@ This is a Node and Express web application used to demonstrate CI/CD with Azure 
 
 [![Build Status](https://dev.azure.com/ASMAzureTestLab/node-express-demo/_apis/build/status/athersm.node-express-azure?branchName=master)](https://dev.azure.com/ASMAzureTestLab/node-express-demo/_build/latest?definitionId=2&branchName=master)
 
-
 ## Running and Testing Locally:
 
 You can use these commands to install, test, and run the app locally. (Not Required)
